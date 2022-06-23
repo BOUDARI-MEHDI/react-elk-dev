@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-elk-dev/static/css/main.5c281197.css",
+    "main.js": "/react-elk-dev/static/js/main.22c445f0.js",
+    "static/js/787.439c1c68.chunk.js": "/react-elk-dev/static/js/787.439c1c68.chunk.js",
+    "static/media/searchUi.svg": "/react-elk-dev/static/media/searchUi.0a7c5464340c2766b0b4b67f56d6e059.svg",
+    "index.html": "/react-elk-dev/index.html",
+    "main.5c281197.css.map": "/react-elk-dev/static/css/main.5c281197.css.map",
+    "main.22c445f0.js.map": "/react-elk-dev/static/js/main.22c445f0.js.map",
+    "787.439c1c68.chunk.js.map": "/react-elk-dev/static/js/787.439c1c68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c281197.css",
+    "static/js/main.22c445f0.js"
+  ]
+}
